@@ -2,7 +2,7 @@
 
 Script en Bash que elimina contenedores parados e imágenes sin nombre para liberar espacio, que además deja un registró de lo que se elminó.
 
-## Qué hace
+## ¿Qué hace?
 
 - Elimina contenedores en estado "exited" con `docker container prune`
 - Elimina imágenes sin uso/nombre con `docker image prune`
