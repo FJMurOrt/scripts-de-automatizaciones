@@ -1,0 +1,12 @@
+[2026-08-30 17:10:53] [OK] https://www.google.com respondió correctamente (código 200)
+[2026-08-30 17:10:53] [OK] https://www.github.com respondió correctamente (código 200)
+[2026-08-30 17:10:53] [OK] https://api.github.com respondió correctamente (código 200)
+[2026-08-30 17:16:50] [SERVICIO DISPONIBLE] https://www.google.com respondió correctamente (código 200)
+[2026-08-30 17:16:50] [SERVICIO DISPONIBLE] https://www.github.com respondió correctamente (código 200)
+[2026-08-30 17:16:50] [SERVICIO DISPONIBLE] https://api.github.com respondió correctamente (código 200)
+[2026-08-30 17:17:41] [SERVICIO DISPONIBLE] https://www.google.com respondió correctamente (código 200)
+[2026-08-30 17:17:41] [SERVICIO DISPONIBLE] https://www.github.com respondió correctamente (código 200)
+[2026-08-30 17:17:41] [SERVICIO DISPONIBLE] https://api.github.com respondió correctamente (código 200)
+[2026-08-30 17:17:41] [SERVICIO DISPONIBLE] https://cloud.google.com respondió correctamente (código 200)
+[2026-08-30 17:17:41] [SERVICIO DISPONIBLE] https://www.docker.com respondió correctamente (código 200)
+[2026-08-30 17:17:41] [SERVICIO NO DISPONIBLE] https://www.wikipedia.org falló: 403
