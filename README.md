@@ -28,5 +28,3 @@ cd monitorizacion-espacio-disco
 cd comprobacion-estado-servicios
 python3 health_check.py
 ```
-
-Consulta el README de cada carpeta para más detalle sobre su funcionamiento y configuración.
