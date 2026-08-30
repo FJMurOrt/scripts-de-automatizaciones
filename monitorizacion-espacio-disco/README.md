@@ -1,4 +1,4 @@
-# Monitorización de espacio en disco
+# Monitorización del espacio usado
 
 Script en Bash que comprueba el porcentaje de espacio usado en el disco y avisa si supera el límite de uso que le hayamos indicado.
 
