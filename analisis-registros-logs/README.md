@@ -2,7 +2,7 @@
 
 Script en Python que analiza un archivo de log y genera un resumen del número de líneas dependiendo del tipo de alerta que encuentre.
 
-## Qué hace
+## ¿Qué hace?
 
 - Lee un archivo de log línea por línea
 - Clasifica cada línea según el nivel de alerta que tenga (puede ser de tipo ERROR, WARNING o INFO)
