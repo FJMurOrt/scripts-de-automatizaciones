@@ -2,7 +2,7 @@
 
 Script en Python que comprueba si una lista de servicios (en este caso URLs públicas) responde correctamente, mostrando el resultado y dejando registro en un log.
 
-## Qué hace
+## ¿Qué hace?
 
 - Hace una petición HTTP a cada servicio de una lista configurable
 - Comprueba el código de respuesta (éxito si es 200)
