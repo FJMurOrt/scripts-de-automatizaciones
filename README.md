@@ -1,6 +1,6 @@
 # Scripts de Automatización (Bash/Python)
 
-Repositorio donde voy guardando y ampliando scripts de automatización en Python y Bash para, por ejemplo, monitorización, limpieza, comprobación de servicios, análisis de logs, entre otras. Cada script incluye manejo de errores y el registro de actividad (logs).
+Repositorio donde voy guardando y ampliando scripts de automatización en Python y Bash. Algunos que ya he realizado, por ejemplo, son para monitorización, limpieza, comprobación de servicios o análisis de logs. Cada script incluye manejo de errores y el registro de actividad (logs).
 
 ## 📂 Scripts
 
