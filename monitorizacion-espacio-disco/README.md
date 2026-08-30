@@ -5,7 +5,7 @@ Script en Bash que comprueba el porcentaje de espacio usado en el disco y avisa 
 ## Qué hace
 
 - Consulta el uso actual de disco con `df`
-- Compara el resultado contra un umbral (80% por defecto)
+- Compara el resultado con el límite que está a 80% por defecto.
 - Muestra un mensaje en pantalla y lo guarda en un log con fecha y hora
 
 ## Uso
