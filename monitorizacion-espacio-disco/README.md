@@ -2,7 +2,7 @@
 
 Script en Bash que comprueba el porcentaje de espacio usado en el disco y avisa si supera el límite de uso que le hayamos indicado.
 
-## Qué hace
+## ¿Qué hace?
 
 - Consulta el uso actual de disco con `df`
 - Compara el resultado con el límite que está a 80% por defecto.
