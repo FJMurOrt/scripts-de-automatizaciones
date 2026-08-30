@@ -1,0 +1,26 @@
+2026-08-30 09:00:12 INFO Servidor iniciado correctamente
+2026-08-30 09:01:05 INFO Usuario admin ha iniciado sesión
+2026-08-30 09:03:22 INFO Petición GET /servidores procesada
+2026-08-30 09:05:18 WARNING Uso de memoria por encima del 70%
+2026-08-30 09:07:41 INFO Petición POST /servidores procesada
+2026-08-30 09:09:15 ERROR Fallo al conectar con la base de datos
+2026-08-30 09:09:16 ERROR Reintentando conexión con la base de datos
+2026-08-30 09:09:20 INFO Conexión con la base de datos restablecida
+2026-08-30 09:12:33 INFO Petición GET /servidores/5 procesada
+2026-08-30 09:14:02 WARNING Tiempo de respuesta elevado en /servidores
+2026-08-30 09:16:45 ERROR Timeout al conectar con servicio externo
+2026-08-30 09:18:09 INFO Petición DELETE /servidores/3 procesada
+2026-08-30 09:20:37 WARNING Espacio en disco por debajo del 20%
+2026-08-30 09:22:14 INFO Usuario admin ha cerrado sesión
+2026-08-30 09:25:50 INFO Usuario invitado ha iniciado sesión
+2026-08-30 09:27:33 ERROR Error de autenticación: credenciales inválidas
+2026-08-30 09:29:11 INFO Petición GET /servidores procesada
+2026-08-30 09:31:48 WARNING Certificado SSL próximo a expirar
+2026-08-30 09:34:22 ERROR Fallo al procesar la solicitud: JSON inválido
+2026-08-30 09:36:05 INFO Petición PUT /servidores/8 procesada
+2026-08-30 09:38:40 INFO Backup completado correctamente
+2026-08-30 09:41:17 ERROR Timeout al conectar con servicio externo
+2026-08-30 09:43:29 WARNING Uso de CPU por encima del 85%
+2026-08-30 09:45:56 INFO Usuario invitado ha cerrado sesión
+2026-08-30 09:48:12 INFO Petición GET /servidores/12 procesada
+2026-08-30 09:50:38 ERROR Fallo al conectar con la base de datos
